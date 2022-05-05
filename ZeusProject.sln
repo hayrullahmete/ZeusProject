@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeusLibrary", "ZeusLibrary\ZeusLibrary.csproj", "{DEA301A2-8134-431F-A0B4-1785493CCE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeusAPI", "ZeusAPI\ZeusAPI.csproj", "{F5D81504-4756-4960-8011-3173E66BF265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA301A2-8134-431F-A0B4-1785493CCE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA301A2-8134-431F-A0B4-1785493CCE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA301A2-8134-431F-A0B4-1785493CCE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA301A2-8134-431F-A0B4-1785493CCE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D81504-4756-4960-8011-3173E66BF265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D81504-4756-4960-8011-3173E66BF265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D81504-4756-4960-8011-3173E66BF265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D81504-4756-4960-8011-3173E66BF265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5260B663-8472-4740-AC9F-BC5E88949F69}
+	EndGlobalSection
+EndGlobal
